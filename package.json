@@ -19,5 +19,14 @@
     "webpack-cli": "^4.3.0",
     "webpack-dev-server": "^3.11.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jimmydalecleveland/webpack-starters.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jimmydalecleveland/webpack-starters/issues"
+  },
+  "homepage": "https://github.com/Jimmydalecleveland/webpack-starters#readme"
 }
